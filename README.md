@@ -19,8 +19,11 @@ pip install --upgrade git+https://github.com/nicosandller/ds_toolbox#egg=ds_tool
 
 These are tools for model evaluation. For classification problems an example would be to use `build_classification_report` as follows:
 ```
-report_V1 = build_classification_report(true_target_data, predicted_target_data, class_labels=["negative", "neutral", "positive"])
+report_V1 = build_classification_report(
+                          true_target_data, predicted_target_data,
+                          class_labels=["negative", "neutral", "positive"]
+)
 ```
 which would output the following report:
 
-![classification_report](/screenshots/class_eval.png?raw=true&s=8 "Classification report example")
+![classification_report](/screenshots/class_eval.png? "Classification report example")
