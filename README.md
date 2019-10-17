@@ -26,4 +26,4 @@ report_V1 = build_classification_report(
 ```
 which would output the following report:
 
-![classification_report](/screenshots/class_eval.png? "Classification report example")
+<img src="https://github.com/nicosandller/ds_toolbox/blob/model_eval/screenshots/class_eval.png" width="450" height="450">
