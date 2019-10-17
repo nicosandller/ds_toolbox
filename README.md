@@ -1,5 +1,6 @@
 # Data science toolbox
-tools for data science exploration
+Tools for data science exploration.
+
 
 ## installation
 To install, run:
