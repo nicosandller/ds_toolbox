@@ -23,4 +23,4 @@ report_V1 = build_classification_report(true_target_data, predicted_target_data,
 ```
 which would output the following report:
 
-![classification_report](/screenshots/class_eval.png?raw=true "Classification report example")
+![classification_report](/screenshots/class_eval.png?raw=true&s=8 "Classification report example")
