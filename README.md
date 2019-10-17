@@ -1,4 +1,4 @@
-# toolbox
+# Data science toolbox
 tools for data science exploration
 
 ## installation
